@@ -1,0 +1,8 @@
+torch
+pytorch-pretrained-bert
+pytorch-crf
+torchvision
+numpy
+pandas
+bs4
+streamlit
