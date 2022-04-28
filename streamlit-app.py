@@ -24,7 +24,7 @@ DEFAULT_ARGS = Namespace(batch_size=4, bidirectional=True, data_size='full', ext
 DEFAULT_FILETYPES = (("text files", "*.txt"), ("all files", "*.*"))
 
 
-@st.cache()
+# @st.cache()
 def process_tagging(text_id, text):
     np.random.seed(0)
     torch.manual_seed(0)
