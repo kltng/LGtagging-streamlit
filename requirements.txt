@@ -1,3 +1,4 @@
+python==3.8.13
 torch
 pytorch-pretrained-bert
 pytorch-crf

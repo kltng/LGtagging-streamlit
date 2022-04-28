@@ -12,3 +12,4 @@ check_entity_improve.py
 *.xlsx
 *.sh
 pybak/
+Pipfile
